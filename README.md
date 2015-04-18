@@ -16,8 +16,8 @@ I changed the output of my "Copier" to copy the file path and not the file itsel
  * Copier, copies those file (names only) to an output file.
 
 ## Tasks
- [] Make the DiskSearcher accept arguments for the root and result destinations as well as searched suffix.
- [] Add time performance/throughput tests
+ - Make the DiskSearcher accept arguments for the root and result destinations as well as searched suffix.
+ - Add time performance/throughput tests
 
 ## General info
 IDC Computer Science, OS course, Ex2, 2014-2015
